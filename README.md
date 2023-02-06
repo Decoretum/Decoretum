@@ -3,7 +3,8 @@ Through Enterprise Systems, I'm able to learn electives that emphasize on Enterp
 I'm knowledgeable in Python, Java, Javascript, and MySQL. <br><br>
 If you want to get to know me better, you can visit me on my [LinkedIn](https://www.linkedin.com/in/tomas-gael-p-estrera-iv-9a5721254/) profile. <br><br>
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
-<b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future.
+<b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future. <br>
+I also have a [LeetCode](https://leetcode.com/Decoretum/) account.
 
 
 

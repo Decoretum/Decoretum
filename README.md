@@ -14,7 +14,9 @@ I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=CSCI-114-Pattern-Recognition,github-readme-stats,Decoretum.github.io)](https://github.com/Decoretum/github-readme-stats)
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decoretum)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decoretum&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 
 
 

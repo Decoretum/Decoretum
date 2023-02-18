@@ -10,10 +10,10 @@ I'm knowledgeable in Python, Java, Javascript, and MySQL. <br><br>
 If you want to get to know me better, you can visit me on my [LinkedIn](https://www.linkedin.com/in/tomas-gael-p-estrera-iv-9a5721254/) profile. <br><br>
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
 I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>
-<b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future. <br>
+<b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future. <br><br>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=CSCI-114-Pattern-Recognition,Decoretum.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=CSCI-114-Pattern-Recognition,Decoretum.github.io&count_private)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Decoretum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decoretum&count_private=true&theme=synthwave&show_icons=true&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
   

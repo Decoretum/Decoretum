@@ -12,7 +12,7 @@ You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
 I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>
 <b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future. <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&exclude_repo=CSCI-114-Pattern-Recognition)](https://github.com/Decoretum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&exclude_repo=CSCI-114-Pattern-Recognition,github-readme-stats)](https://github.com/Decoretum/github-readme-stats)
 
 
 

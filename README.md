@@ -6,7 +6,7 @@ Through Enterprise Systems, I'm able to learn electives that emphasize on Enterp
 
 
   
-I'm knowledgeable in Python, Java, Javascript, and MySQL. <br><br>
+I'm knowledgeable in Python, Java, Javascript, and MySQL. I'm currently learning Vue.js, Node,js, Svelte, and React. <br><br>
 If you want to get to know me better, you can visit me on my [LinkedIn](https://www.linkedin.com/in/tomas-gael-p-estrera-iv-9a5721254/) profile. <br><br>
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
 I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>

@@ -1,4 +1,4 @@
-Hi, I’m <b> Gael Estrera </b>! I'm currently a <b> BS Management Information Systems </b> graduate with a specialization in <b> Enterprise Systems </b>. <br><br>
+Hi, I’m <b> Gael Estrera </b>! I'm a <b> BS Management Information Systems </b> graduate from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br><br>
 
 As an Information Systems student, we were taught how to design data models, data diagrams, database designs, as well as the technical development skills for implementing and deploying applications. All of these are being taught while taking into consideration business logic. I found myself being more inclined to the development-side of Information Systems such as applications development, software development, database design, and web application development. <Br>
 

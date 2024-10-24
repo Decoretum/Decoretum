@@ -1,4 +1,4 @@
-Hi, I’m <b> Gael Estrera </b>! I'm a <b> BS Management Information Systems </b> graduate from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br>
+Hi, I’m <b> Gael Estrera </b>! I graduated with a degree in <b> BS Management Information Systems </b> with an Honorable Mention Award from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br>
 
 ## Hobbies
 I mainly enjoy playing video games, eating out with friends, and travelling around the Philippines and outside Philippines. My mother introduced me to different cultures around the world which broadened by perspective, goals, and dreams. Recently, my trip to Taiwan really piqued my interest in broadening my perspective, aspirations, and my disposition towards people and activities.

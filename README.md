@@ -9,7 +9,7 @@ As an Information Systems graduate, I was taught how to design data models, data
 Through Enterprise Systems, I'm able to learn electives that emphasize on Enterprise-level Information Systems planning, Software Engineering topics and applications, Network Security and Cryptography, and Enterprise Systems programming by the end of my college curriculum. After my software engineering internship, I work towards my goal to be a future <b> Software Developer </b> that is very passionate in programming and developing applications that create positive impact for certain business/enterprise needs. <br><br>
 
 ## What I learned and What I'm Currently Learning  
-I'm knowledgeable in data structures and algorithms, Python, Java (Spring Boot), Javascript (including NodeJS and ReactJS), and MySQL. I'm currently learning C# and .NET, and I'm mainly honing my ability to develop algorithms from visualizing and understanding the problem and its solution. <br><br>
+I'm knowledgeable in data structures and algorithms, Python, Java (Spring Boot), Javascript (including NodeJS and ReactJS), and MySQL. I'm currently learning C# and .NET, and I'm mainly honing my ability to develop algorithms from visualizing the scenario and the potential solutions to it.  <br><br>
 If you want to get to know me better, you can visit me on my [LinkedIn](https://www.linkedin.com/in/tomas-gael-p-estrera-iv-9a5721254/) profile. <br><br>
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
 I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>

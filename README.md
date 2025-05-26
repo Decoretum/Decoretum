@@ -16,7 +16,8 @@ I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>
 <b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future. <br><br>
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=CSCI-114-Pattern-Recognition,Decoretum.github.io&count_private)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=CSCI-114-Pattern-Recognition,Decoretum.github.io&count_private)](https://github.com/Decoretum/github-readme-stats)
+[![Decoretum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decoretum)](https://github.com/Decoretum/github-readme-stats)
 
   
   

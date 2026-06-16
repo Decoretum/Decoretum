@@ -1,4 +1,4 @@
-Hi, I’m Gael Estrera, and I graduated with a degree in <b> BS Management Information Systems </b> with an Honorable Mention Award from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br>
+Hi, I’m Gael Estrera, and I graduated with a degree in <b> BS Management Information Systems </b> with an Honorable Mention Award from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br><br> I am currently a Software Engineer at CSI Interfusion, a partner company of Microsoft which specializes in Microsoft technologies. I develop and refactor modules under giant Machine Translation systems using pure `C#` and `.NET` in order to ensure that our services meet client's needs
 
 ## Hobbies
 I mainly enjoy playing video games, eating out with friends, and travelling around the Philippines and outside Philippines. My mother introduced me to different cultures around the world which broadened by perspective, goals, and dreams. Recently, my trip to Taiwan really piqued my interest in broadening my perspective, aspirations, and my disposition towards people and activities.
@@ -13,9 +13,7 @@ I'm knowledgeable in data structures and algorithms, Python, Java (Spring Boot),
 If you want to get to know me better, you can visit me on my [LinkedIn](https://www.linkedin.com/in/tomas-gael-p-estrera-iv-9a5721254/) profile. <br><br>
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
 I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>
-<b> Disclaimer: </b> The organization "SystemMakers" is an unmonetized group that me and my friends formed in case we will work on certain projects in the future. <br><br>
 
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=Decoretum.github.io&count_private&layout=donut)
 ![Decoretum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decoretum)
 

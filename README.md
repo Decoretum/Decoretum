@@ -1,4 +1,7 @@
-Hi, I’m Gael Estrera, and I graduated with a degree in <b> BS Management Information Systems </b> with an Honorable Mention Award from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br><br> I am currently a Software Engineer at CSI Interfusion, a partner company of Microsoft which specializes in Microsoft technologies. I develop and refactor modules under giant Machine Translation systems using pure `C#` and `.NET` in order to ensure that our services meet client's needs
+Hi, I’m Gael Estrera, and I graduated with a degree in <b> BS Management Information Systems </b> with an Honorable Mention Award from Ateneo de Manila University with a specialization in <b> Enterprise Systems </b>. <br><br> I am currently a Software Engineer at CSI Interfusion, a partner company of Microsoft which specializes in Microsoft technologies. I develop and refactor modules under giant Machine Translation systems using pure `C#` and `.NET` in order to ensure that our services meet client's needs. <br><br>
+
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Decoretum&theme=tokyonight)
+<br><br>
 
 ## Hobbies
 I mainly enjoy playing video games, eating out with friends, and travelling around the Philippines and outside Philippines. My mother introduced me to different cultures around the world which broadened by perspective, goals, and dreams. Recently, my trip to Taiwan really piqued my interest in broadening my perspective, aspirations, and my disposition towards people and activities.
@@ -9,13 +12,16 @@ As an Information Systems graduate, I was taught how to design data models, data
 Through Enterprise Systems, I'm able to learn electives that emphasize on Enterprise-level Information Systems planning, Software Engineering topics and applications, Network Security and Cryptography, and Enterprise Systems programming by the end of my college curriculum. After my software engineering internship, I work towards my goal to be a future <b> Software Developer </b> that is very passionate in programming and developing applications that create positive impact for certain business/enterprise needs. <br><br>
 
 ## What I learned and What I'm Currently Learning  
-I'm knowledgeable in data structures and algorithms, Python, Java (Spring Boot), Javascript (including NodeJS and ReactJS), and MySQL. I'm currently learning C# and .NET, and I'm mainly honing my ability to develop algorithms from visualizing the scenario and the potential solutions to it.  <br><br>
+I'm knowledgeable in data structures and algorithms, Python, Java (Spring Boot), Javascript (including NodeJS and ReactJS), and MySQL. I'm currently learning C# and .NET, and I'm mainly honing my ability to develop algorithms from visualizing the scenario and the potential solutions to it.  <br>
+
+More importantly, I am learning how to connect better to people, personally and professionally, in order to forge meaningful and fulfilling relationships. <br><br> 
 If you want to get to know me better, you can visit me on my [LinkedIn](https://www.linkedin.com/in/tomas-gael-p-estrera-iv-9a5721254/) profile. <br><br>
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
-I also have a [LeetCode](https://leetcode.com/Decoretum/) account. <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&hide=html&exclude_repo=Decoretum.github.io&count_private&layout=donut)
-![Decoretum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decoretum)
+![Top languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Decoretum&theme=tokyonight&exclude=html,css,jupyter%20notebook) &nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook)
+
+
 
   
   

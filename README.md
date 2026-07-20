@@ -19,7 +19,6 @@ If you want to get to know me better, you can visit me on my [LinkedIn](https://
 You can also contact me through my Gmail, gaelestrera@gmail.com. <br><br>
 
 ![Top languages by Repository](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Decoretum&theme=tokyonight&exclude=html,css,jupyter%20notebook) &nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decoretum&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook)
 
 
 
